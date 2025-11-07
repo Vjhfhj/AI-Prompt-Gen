@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Vision AI",
+  "description": "An AI-powered tool that analyzes an uploaded image and generates a detailed, descriptive text prompt suitable for creating similar images with AI image generation models.",
+  "requestFramePermissions": []
+}
